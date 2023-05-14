@@ -9,7 +9,7 @@ import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 import '../api/data.dart';
 import '../models/carriage_data.dart';
 import '../models/train.dart';
-import '../ui_helper.dart/train_seat_finder_screen_helper.dart';
+import '../ui_helper/train_seat_finder_screen_helper.dart';
 import '../widgets/carriage.dart';
 import '../widgets/first_carriage.dart';
 import '../widgets/track_base.dart';
